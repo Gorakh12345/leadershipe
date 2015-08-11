@@ -1,12 +1,5 @@
 <?php
-echo"Hello testing";
-echo"Hello testing";
-echo"Hello testing";
-echo"Hello testing";
-echo"Hello testing";
-echo"Hello testing";
-echo"Hello testing";
-echo"Hello testing";
-echo"Hello testing";
-echo"Hello testing";
-echo"Hello testing";
+$father="mother"; 
+$mother="son"; 
+echo $$father; 
+?>
